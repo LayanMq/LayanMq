@@ -4,17 +4,15 @@
  Hi there I`m Layan Alqurashi
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
-<p>  🌸🌸 I'm a Data Scientist with a strong passion for solving real-world problems using Artificial Intelligence techniques.
-
+<p>  
+  I'm a Data Scientist with a strong passion for solving real-world problems using Artificial Intelligence techniques.
 </p>
 
 - 👨‍💻 I’m currently exploring Deep Learning technologies like neural networks and machine learning models.
 - 📚 I’m learning about Web Development like JavaScript & Natural Language Processing 'NLP' to combine AI with modern applications.
 - 🎯 Future Goals:I like to dive deeper into Artificial Intelligence research and build impactful real-world solutions.
 
-
-
-- 📫 Social links
+  *🌸Social links🌸*
 <p>
 
 <a href="https://www.linkedin.com/in/layan-muqbil-281b8929a/"><img
@@ -23,18 +21,9 @@
     src="https://img.shields.io/badge/-Instagram-d62976?style=flat&logo=instagram&logoColor=white"
     alt="Facebook"></a>
 </p>
+- 📫 How to reach me: Layanmugbil@gmail.com
+</p>
 
-### 🛠 &nbsp;Technologies that I work with
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-![ReactJs](https://img.shields.io/badge/-ReactJs-000000?style=flat&logo=react)
-![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress)
+<h3 align="left">Technologies that I work with:</h3>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedelkashef15&hide_progress=true) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedelkashef15&layout=compact)
-<br>
-<a href="https://komarev.com/ghpvc/?username=mohamedelkashef15&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=mohamedelkashef15&style=for-the-badge">
-</a>
